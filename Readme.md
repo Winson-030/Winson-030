@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Winson Li</h1>
 <p>A passionate DevOps Engineer </p>
-<h2>🚀 Languages and Tools I Use</h2>
+<h2>🚀 Tools I Use</h2>
 <h3>Front End</h3>
 <p>
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="42" height="42" /></a>
