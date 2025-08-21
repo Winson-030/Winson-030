@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Winson Li</h1>
-<p>A passionate DevOps Engineer </p>
+<p>A passionate DevOps Engineer, BTC & ETH HODLer</p>
 <h2>🚀 Tools I Use</h2>
 <h3>Front End</h3>
 <p>
