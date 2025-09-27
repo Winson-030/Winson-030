@@ -2,7 +2,7 @@
 
 ## Hey there! 👋
 
-I'm Winson Li, a passionate DevOps Engineer with a keen interest in blockchain and web3 development. With over 70 commits and 164 public repositories, I strive to actively contribute to various projects and explore the realms of technology. My expertise lies in DevOps, crypto, and web3 development, shaping a versatile skill set that drives my passion for innovation.
+I'm Winson Li, a passionate DevOps Engineer with a keen interest in blockchain and web3 development. I strive to actively contribute to various projects and explore the realms of technology. My expertise lies in DevOps and Cloud Infra management, shaping a versatile skill set that drives my passion for innovation.
 
 ### 🚀 Quick Overview
 
@@ -41,7 +41,7 @@ const Winson = {
 
 ### 📫 Get in Touch
 
-- LinkedIn: [Connect on LinkedIn](https://www.linkedin.com/in/winson-dev/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/winson-dev/)
 - Email: [mail@winson.dev](mailto:mail@winson.dev)
 - resume: [resume](https://winson.dev/resume)
 
