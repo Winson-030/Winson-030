@@ -7,7 +7,7 @@ I'm Winson Li, a passionate DevOps Engineer with a keen interest in blockchain a
 ### 🚀 Quick Overview
 
 - 💻 **Skills:** DevOps, Cloud Infrastructure
-- 🌐 **Featured Repos:** "dify-kubernetes"
+- 🌐 **Featured Repos:** [dify-kubernetes](https://github.com/winson-030/dify-kubernetes)
 - 🎯 **Interests:** Open-source contribution, Collaborative projects
 - 🔗 **GitHub Profile:** [Explore Here](https://github.com/Winson-030)
 
